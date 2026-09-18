@@ -15,8 +15,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="./style.css" />
-  <link rel="stylesheet" href="/index.css">
+    <link rel="stylesheet" href=".style.css (1)" />
+ 
 </head>
   <body class="font-sans antialiased text-slate-800 bg-[#f8faf7]">
     
